@@ -1,0 +1,74 @@
+[
+    {
+        "key": "01",
+        "condition": "New",
+        "name": "Watch",
+        "description": "A watch is a small clock carried or worn by a person. It makes it easy to see the time. It is also a fashion accessory for men and women, and expensive watches are designed for this purpose. A watch may be one of the few accessories worn by a person.",
+        "img": "https://i.ibb.co/wcynQbv/OLYMPUS-DIGITAL-CAMERA.jpg",
+        "price": 99.99,
+        "discountPrice": 78.99
+    },
+    {
+        "key": "02",
+        "condition": "New",
+        "name": "By-Cycle",
+        "description": "Speed Bird Cooper Magenta Pink Kids Cycle 16-T Baby Cycle For Girls - Age Group 4-8 years (Cooper Magenta Pink)",
+        "img": "https://i.ibb.co/vqtCL7L/1622264673891-0.webp",
+        "price": 700.99,
+        "discountPrice": 650.99
+    },
+    {
+        "key": "03",
+        "condition": "New",
+        "name": "Motorcycle",
+        "description": "GXS Suzuki plans to shift focus into the premium motorcycle segment. The company plans to start selling bikes in the 250cc to 400cc segments.",
+        "img": "https://i.ibb.co/S3x7nPx/23-230980-motorcycle-bike-png-high-quality-image-harley-davidson.png",
+        "price": 1499.99,
+        "discountPrice": 1200.99
+    },
+    {
+        "key": "04",
+        "condition": "New",
+        "name": "Microsoft Surface Laptop Studio - 14.4 inche Touchscreen - Intel Core i5 - 16GB Memory - 512GB SSD - Platinum",
+        "description": "The most powerful Surface Laptop. Quad-core powered 11th Gen Intel Core H Series processors handle your most complex workloads. Boundary-pushing design with sleek 14.4“ (5) touchscreen makes seamless transitions from laptop to entertainment-ready stage to portable creative canvas.",
+        "img": "https://i.ibb.co/KmXmpwS/laptop1.jpg",
+        "price": 1499.99,
+        "discountPrice": 1200.99
+    },
+    {
+        "key": "01",
+        "condition": "New",
+        "name": "iBUYPOWER Pro Gaming PC Computer Desktop Element MR 208i",
+        "description": "System: Intel i7-11700F 2.5GHz (4.9GHz Max Turbo) | 16GB DDR4 RAM | 240GB SSD | 1TB HDD | Genuine Windows 10 Home 64-bit. Graphics: NVIDIA GeForce RTX 2060 6GB Dedicated Gaming Video Card | VR Ready | 1x DVI | 1x HDMI | 1x Display Port",
+        "img": "https://i.ibb.co/VV3G3mW/desktop1.jpg",
+        "price": 1499.99,
+        "discountPrice": 1200.99
+    },
+    {
+        "key": "02",
+        "condition": "New",
+        "name": "Bose SoundLink around-ear wireless headphones II- White",
+        "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Latest Bluetooth technology for easy connectivity and seamless audio or video syncs",
+        "img": "https://i.ibb.co/1vKJtCc/headphone1.jpg",
+        "price": 275.99,
+        "discountPrice": 200.99
+    },
+    {
+        "key": "03",
+        "condition": "New",
+        "name": "ASUS ROG Strix G15 (2021) Gaming Laptop, 15.6” 300Hz 3ms IPS Type FHD Display",
+        "description": "NVIDIA GeForce RTX 3060 6GB GDDR6 with ROG Boost up to 1802MHz at 115W (130W with Dynamic Boost).AMD Ryzen 7 4800H Processor 2.9 GHz (8M Cache, up to 4.2 GHz)",
+        "img": "https://i.ibb.co/92qCQC7/laptop2.jpg",
+        "price": 1499.99,
+        "discountPrice": 1200.99
+    },
+    {
+        "key": "04",
+        "condition": "New",
+        "name": "Microsoft Surface Laptop Studio - 14.4 inche Touchscreen - Intel Core i5 - 16GB Memory - 512GB SSD - Platinum",
+        "description": "The most powerful Surface Laptop. Quad-core powered 11th Gen Intel Core H Series processors handle your most complex workloads. Boundary-pushing design with sleek 14.4“ (5) touchscreen makes seamless transitions from laptop to entertainment-ready stage to portable creative canvas.",
+        "img": "https://i.ibb.co/KmXmpwS/laptop1.jpg",
+        "price": 1499.99,
+        "discountPrice": 1200.99
+    }
+]
